@@ -38,7 +38,7 @@ Instalação no Termux
 
 pkg update
 pkg install python git -y
-git clone URL_DO_SEU_REPOSITORIO
+git clone https://github.com/insoniaao/userfind
 cd USER-FINDER
 python -m py_compile finder.py
 python finder.py
