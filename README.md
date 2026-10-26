@@ -43,7 +43,7 @@ cd USER-FINDER
 python -m py_compile finder.py
 python finder.py
 
-Substitua "URL_DO_SEU_REPOSITORIO" pelo endereço real do repositório.
+
 
 Limitações
 
